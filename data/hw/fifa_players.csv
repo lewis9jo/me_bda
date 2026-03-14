@@ -1,0 +1,87 @@
+short_name,nationality_name,club_name,league_name,player_positions,overall,potential,age,wage_eur,international_reputation
+L. Messi,Argentina,Inter Miami,MLS,RW,91,91,36,50000,5
+C. Ronaldo,Portugal,Al Nassr,Saudi Pro League,ST,88,88,38,200000,5
+K. Mbappé,France,Paris SG,Ligue 1,ST,91,95,23,230000,5
+K. De Bruyne,Belgium,Manchester City,Premier League,CM,91,91,31,350000,5
+R. Lewandowski,Poland,FC Barcelona,La Liga,ST,90,90,34,270000,5
+M. Salah,Egypt,Liverpool,Premier League,RW,90,90,30,350000,5
+V. van Dijk,Netherlands,Liverpool,Premier League,CB,89,89,30,220000,4
+T. Kroos,Germany,Real Madrid,La Liga,CM,88,88,32,350000,5
+N. Kante,France,Al-Ittihad,Saudi Pro League,CDM,88,88,32,100000,4
+H. Kane,England,Bayern Munich,Bundesliga,ST,90,90,29,300000,5
+J. Bellingham,England,Real Madrid,La Liga,CM,88,95,20,100000,4
+B. Saka,England,Arsenal,Premier League,RW,86,93,21,130000,3
+P. Dybala,Argentina,AS Roma,Serie A,CAM,86,86,30,130000,4
+L. Goretzka,Germany,Bayern Munich,Bundesliga,CM,86,87,28,130000,3
+T. Alexander-Arnold,England,Liverpool,Premier League,RB,87,89,24,180000,3
+F. Valverde,Uruguay,Real Madrid,La Liga,CM,87,92,24,120000,3
+G. Donnarumma,Italy,Paris SG,Ligue 1,GK,90,91,23,130000,4
+T. Courtois,Belgium,Real Madrid,La Liga,GK,90,90,30,300000,5
+M. ter Stegen,Germany,FC Barcelona,La Liga,GK,89,89,30,200000,4
+K. Navas,Costa Rica,Nottm Forest,Premier League,GK,84,84,36,60000,3
+A. Alisson,Brazil,Liverpool,Premier League,GK,90,90,30,200000,4
+E. Martinez,Argentina,Aston Villa,Premier League,GK,87,88,30,100000,3
+O. Dembele,France,FC Barcelona,La Liga,RW,87,89,26,350000,4
+L. Hernandez,France,Bayern Munich,Bundesliga,CB,86,87,26,150000,3
+A. Robertson,Scotland,Liverpool,Premier League,LB,87,87,28,160000,3
+D. Alli,England,Everton,Premier League,CAM,77,77,26,100000,3
+P. Pogba,France,Juventus,Serie A,CM,83,83,29,250000,4
+G. Wijnaldum,Netherlands,Al-Ettifaq,Saudi Pro League,CM,82,82,32,150000,3
+I. Gundogan,Germany,FC Barcelona,La Liga,CM,86,86,32,180000,4
+E. Hazard,Belgium,Real Madrid,La Liga,LW,79,79,31,300000,4
+T. Werner,Germany,Tottenham,Premier League,ST,83,85,27,120000,3
+M. Reus,Germany,Borussia Dortmund,Bundesliga,CAM,84,84,33,120000,4
+J. Sancho,England,Manchester United,Premier League,RW,82,87,22,200000,3
+A. Griezmann,France,Atletico Madrid,La Liga,CAM,86,86,31,220000,5
+K. Benzema,France,Al-Ittihad,Saudi Pro League,ST,89,89,35,400000,5
+Son Heung-min,South Korea,Tottenham,Premier League,LW,88,88,30,200000,4
+Firmino,Brazil,Al Ahli,Saudi Pro League,CF,84,84,31,120000,3
+P. Coutinho,Brazil,Aston Villa,Premier League,CAM,82,82,30,150000,4
+T. Muller,Germany,Bayern Munich,Bundesliga,CAM,86,86,32,200000,4
+A. Di Maria,Argentina,Juventus,Serie A,RW,85,85,34,120000,4
+N. Milinkovic-Savic,Serbia,Al-Hilal,Saudi Pro League,CM,85,87,27,130000,3
+R. Dias,Portugal,Manchester City,Premier League,CB,88,90,25,180000,4
+A. Rudiger,Germany,Real Madrid,La Liga,CB,85,85,29,200000,3
+K. Walker,England,Manchester City,Premier League,RB,84,84,31,120000,3
+R. Sterling,England,Chelsea,Premier League,LW,85,85,27,300000,4
+M. Mount,England,Manchester United,Premier League,CAM,82,88,23,180000,3
+Rodri,Spain,Manchester City,Premier League,CDM,88,89,26,180000,4
+T. Partey,Ghana,Arsenal,Premier League,CDM,84,85,28,130000,3
+D. Upamecano,France,Bayern Munich,Bundesliga,CB,84,88,23,100000,3
+W. Saliba,France,Arsenal,Premier League,CB,83,91,21,70000,3
+G. Ramos,Portugal,Paris SG,Ligue 1,ST,82,90,21,50000,2
+E. Camavinga,France,Real Madrid,La Liga,CM,82,92,19,50000,2
+G. Pedri,Spain,FC Barcelona,La Liga,CM,86,93,20,100000,3
+A. Yamal,Spain,FC Barcelona,La Liga,RW,80,95,16,20000,2
+J. Gavi,Spain,FC Barcelona,La Liga,CM,85,93,18,60000,3
+C. Palmer,England,Chelsea,Premier League,CAM,83,91,21,50000,2
+R. Gnabry,Germany,Bayern Munich,Bundesliga,RW,84,86,27,120000,3
+L. Sane,Germany,Bayern Munich,Bundesliga,LW,85,86,27,150000,3
+J. Kimmich,Germany,Bayern Munich,Bundesliga,CDM,89,89,27,200000,4
+M. Neuer,Germany,Bayern Munich,Bundesliga,GK,88,88,36,200000,5
+S. Gnonto,Italy,Leeds United,Championship,LW,75,86,19,10000,1
+E. Ferguson,Ireland,Brighton,Premier League,ST,76,87,19,15000,1
+H. Wirtz,Germany,Bayer Leverkusen,Bundesliga,CAM,87,94,20,60000,3
+X. Simons,Netherlands,PSV,Eredivisie,CM,82,92,20,30000,2
+F. Ruiz,Spain,Paris SG,Ligue 1,CM,84,88,21,80000,3
+D. Malen,Netherlands,Borussia Dortmund,Bundesliga,LW,82,85,24,60000,2
+M. Diallo,Senegal,Borussia Dortmund,Bundesliga,LW,81,86,21,40000,2
+I. Sarr,Senegal,Watford,Championship,RW,79,84,24,40000,2
+S. Mane,Senegal,Al Nassr,Saudi Pro League,LW,86,86,30,200000,4
+R. Mahrez,Algeria,Al Ahli,Saudi Pro League,RW,85,85,31,200000,4
+C. Pulisic,United States,AC Milan,Serie A,LW,82,84,24,80000,3
+W. McKennie,United States,Juventus,Serie A,CM,78,82,24,50000,2
+T. Adams,United States,Southampton,Premier League,CDM,77,82,23,40000,2
+G. Reyna,United States,Borussia Dortmund,Bundesliga,CAM,75,87,20,30000,2
+R. Balogun,United States,Monaco,Ligue 1,ST,78,85,21,40000,2
+J. Kvaratshelia,Georgia,Napoli,Serie A,LW,87,92,22,80000,3
+V. Osimhen,Nigeria,Napoli,Serie A,ST,88,91,24,100000,4
+L. Trossard,Belgium,Arsenal,Premier League,LW,83,84,28,100000,3
+M. Rashford,England,Manchester United,Premier League,LW,85,88,25,300000,4
+J. Grealish,England,Manchester City,Premier League,LW,83,85,27,300000,3
+M. Odegaard,Norway,Arsenal,Premier League,CAM,87,89,24,180000,4
+B. Fernandes,Portugal,Manchester United,Premier League,CAM,86,87,28,200000,4
+C. Nkunku,France,Chelsea,Premier League,CAM,85,88,25,120000,3
+K. Havertz,Germany,Arsenal,Premier League,CAM,83,87,24,130000,3
+P. Schick,Czech Republic,Bayer Leverkusen,Bundesliga,ST,82,84,26,50000,2
+L. Suarez,Uruguay,Nacional,Liga Uruguaya,ST,82,82,36,50000,4
