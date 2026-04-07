@@ -1,0 +1,9 @@
+line,shift,actual_produced,actual_defective,inspected_count,inspected_defective
+Line_A,day,89747,2669,13462,340
+Line_A,night,59987,3608,2999,153
+Line_B,day,89719,3614,10766,368
+Line_B,night,60165,4220,2406,143
+Line_C,day,60366,3625,3621,184
+Line_C,night,40018,4445,800,75
+Line_D,day,60024,3006,4801,204
+Line_D,night,39974,4046,1199,103
